@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://Nikhil-Jr.github.io"><span class="avatar"><img width='200' height='200'  src="https://github.com/Nikhil-Jr/logo.jpg" alt=""> </a></span>
+  <a href="https://Nikhil-Jr.github.io"><span class="avatar"><img width='200' height='200'  src="https://avatars.githubusercontent.com/Nikhil-Jr" alt=""> </a></span>
   <h1>Nikhil-Jr</h1>
 </div>
 
